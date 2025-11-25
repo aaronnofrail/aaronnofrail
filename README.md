@@ -22,11 +22,24 @@ I’m a 1st semester student majoring in Informatics Engineering at Hasanuddin U
 
 
 
+
+<div align="center">  
+  
+
+<!-- Streaks -->
+![](https://github-readme-stats.vercel.app/api?username=aaronnofrail&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=aaronnofrail&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronnofrail&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  
 <!-- Trophy -->
 ![](https://github-profile-trophy.vercel.app/?username=aaronnofrail&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
 <!-- Quotes -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+  
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
