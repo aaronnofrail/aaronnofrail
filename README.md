@@ -1,8 +1,8 @@
 <div align="center">
   
-## Hi, I'm Arundaffa Nahara
+# Hi, I'm Arundaffa Nahara
 
-#### Data Enthusiast
+### Data Enthusiast 
 
 I’m a 1st semester student majoring in Informatics Engineering at Hasanuddin University. I’m passionate about Data Science. Right now, I’m heading on improving my skills through projects.
 
