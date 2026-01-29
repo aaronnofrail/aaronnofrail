@@ -36,10 +36,6 @@ I’m a 1st semester student majoring in Informatics Engineering at Hasanuddin U
 <!-- Trophy -->
 ![](https://github-profile-trophy.vercel.app/?username=aaronnofrail&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
-<!-- Quotes -->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-  
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
