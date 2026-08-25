@@ -2,9 +2,9 @@
   
 # Hi, I'm Arundaffa Nahara
 
-### Tech Enthusiast 
+### Software Enthusiast 
 
-I’m a 2nd semester student majoring in Informatics Engineering at Hasanuddin University. I’m passionate about Tech. Right now, I’m heading on improving my skills through projects.
+I’m a 3rd semester student majoring in Informatics Engineering at Hasanuddin University. I’m passionate about Tech. Right now, I’m heading on improving my skills through projects.
 
 </div>
 
