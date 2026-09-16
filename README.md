@@ -58,6 +58,9 @@ I’m a 3rd semester student majoring in Informatics Engineering at Hasanuddin U
     <a href="https://www.linkedin.com/in/arundaffa/">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="Tools" />
     </a>
+    <a href="https://www.instagram.com/dfnhrr/">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Tools" />
+    </a>
   </p>
 </div>
 
