@@ -8,6 +8,10 @@ I’m a 3rd semester student majoring in Informatics Engineering at Hasanuddin U
 
 </div>
 
+<a href="https://open.spotify.com/user/aaronnofrail">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=aaronnofrail&cover_image=true&theme=default&bar_color=53b14f&font_color=ffffff" alt="Spotify Recently Played" />
+</a>
+
 <div align="center">
   <h3>🛠 Tech Stack </h3>
   
