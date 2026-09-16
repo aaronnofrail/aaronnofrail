@@ -14,7 +14,7 @@ I’m a 3rd semester student majoring in Informatics Engineering at Hasanuddin U
   <p>💻 <b>Programming Languages</b></p>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,cs,python,html,css" alt="Programming Languages" />
+      <img src="https://skillicons.dev/icons?i=js,ts,cs,python,html,cpp,java,css" alt="Programming Languages" />
     </a>
   </p>
   <br>
@@ -30,7 +30,7 @@ I’m a 3rd semester student majoring in Informatics Engineering at Hasanuddin U
   <p>⚙️ <b>Backend Engineering</b></p>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" alt="Backend Engineering" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,firebase,sqlite" alt="Backend Engineering" />
     </a>
   </p>
   <br>
