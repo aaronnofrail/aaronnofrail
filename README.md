@@ -38,7 +38,7 @@ I’m a 3rd semester student majoring in Informatics Engineering at Hasanuddin U
   <p>🗄️ <b>Database & Cloud Services</b></p>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase" alt="Database & Cloud Services" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" alt="Database & Cloud Services" />
     </a>
   </p>
   <br>
@@ -46,7 +46,7 @@ I’m a 3rd semester student majoring in Informatics Engineering at Hasanuddin U
   <p>🔧 <b>DevOps, Tools & OS</b></p>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,unity,vscode,apple" alt="Tools" />
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,unity,docker,vscode,apple" alt="Tools" />
     </a>
   </p>
 </div>
