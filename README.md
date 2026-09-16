@@ -8,9 +8,9 @@ I’m a 3rd semester student majoring in Informatics Engineering at Hasanuddin U
 
 </div>
 
-<a href="https://open.spotify.com/user/31cx5litrbncegrvd6qxifydqlai">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31cx5litrbncegrvd6qxifydqlai&cover_image=true&theme=default&bar_color=53b14f&font_color=ffffff" alt="Spotify Recently Played" />
-</a>
+<div align="center">
+  <img src="lofi-gif-7.gif" alt="Banner Profil" width="100%" />
+</div>
 
 <div align="center">
   <h3>🛠 Tech Stack </h3>
