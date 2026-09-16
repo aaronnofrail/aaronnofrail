@@ -9,7 +9,7 @@ I’m a 3rd semester student majoring in Informatics Engineering at Hasanuddin U
 </div>
 
 <div align="center">
-  <h3>🛠 Tech Stack & Technologies</h3>
+  <h3>🛠 Tech Stack </h3>
   
   <p>💻 <b>Programming Languages</b></p>
   <p>
@@ -27,7 +27,7 @@ I’m a 3rd semester student majoring in Informatics Engineering at Hasanuddin U
   </p>
   <br>
 
-  <p>⚙️ <b>Backend Engineering</b></p>
+  <p>⚙️ <b>Backend Development</b></p>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,firebase,sqlite" alt="Backend Engineering" />
@@ -43,7 +43,7 @@ I’m a 3rd semester student majoring in Informatics Engineering at Hasanuddin U
   </p>
   <br>
 
-  <p>🔧 <b>DevOps, Tools & OS</b></p>
+  <p>🔧 <b>DevOps & Tools</b></p>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,github,vercel,unity,docker,vscode,apple" alt="Tools" />
