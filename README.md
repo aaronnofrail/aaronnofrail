@@ -52,8 +52,15 @@ I’m a 3rd semester student majoring in Informatics Engineering at Hasanuddin U
 </div>
 
 
-#### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arundaffa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arundaffa.nahara@gmail.com) 
+<div align="center"> 
+  <p>🔧 <b>How to Reach me</b></p>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="Tools" />
+       <a href="https://www.linkedin.com/in/arundaffa/">
+    </a>
+  </p>
+</div>
 
 
 
