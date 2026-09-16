@@ -8,8 +8,8 @@ I’m a 3rd semester student majoring in Informatics Engineering at Hasanuddin U
 
 </div>
 
-<a href="https://open.spotify.com/user/aaronnofrail">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=aaronnofrail&cover_image=true&theme=default&bar_color=53b14f&font_color=ffffff" alt="Spotify Recently Played" />
+<a href="https://open.spotify.com/user/31cx5litrbncegrvd6qxifydqlai">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31cx5litrbncegrvd6qxifydqlai&cover_image=true&theme=default&bar_color=53b14f&font_color=ffffff" alt="Spotify Recently Played" />
 </a>
 
 <div align="center">
