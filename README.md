@@ -53,11 +53,10 @@ I’m a 3rd semester student majoring in Informatics Engineering at Hasanuddin U
 
 
 <div align="center"> 
-  <p>🔧 <b>How to Reach me</b></p>
+  <p><b>How to Reach me</b></p>
   <p>
-    <a href="https://skillicons.dev">
+    <a href="https://www.linkedin.com/in/arundaffa/">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="Tools" />
-       <a href="https://www.linkedin.com/in/arundaffa/">
     </a>
   </p>
 </div>
